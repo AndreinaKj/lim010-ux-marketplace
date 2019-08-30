@@ -82,3 +82,5 @@ En adición con el punto anterior, se ha desplegado una tabla con información d
  3. **Método de pago**
 Con la activación de una pasarela de pago, se le permite al usuario realizar su compra de forma segura y confiable dentro de la aplicación web. Esta funcionalidad acepta diferentes medio de pago como por ejemplo Visa, Master, PayPal, entre otros. De esta forma el usuario evita molestias de ir al banco para realizar la transacción. 
 
+## Video de Loom 
+[Click aquí para ver el video de Loom](https://www.loom.com/share/7bb0fb1425b04875b62c470da357fdc8)
