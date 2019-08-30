@@ -84,3 +84,6 @@ Con la activación de una pasarela de pago, se le permite al usuario realizar su
 
 ## Video de Loom 
 [Click aquí para ver el video de Loom](https://www.loom.com/share/7bb0fb1425b04875b62c470da357fdc8)
+
+## Carpeta de archivos
+[Click aquí para ver carpeta de  Google Drive con archivos del proyecto](https://drive.google.com/drive/folders/1mDnO5rtOfDwUoEujf4WH-Ofk4yvj0w-I?usp=sharing)
