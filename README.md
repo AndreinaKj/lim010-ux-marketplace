@@ -90,5 +90,4 @@ Con la activación de una pasarela de pago, se le permite al usuario realizar su
 
 ## Iteración
 Enlace de prototipo de alta fidelidad con iteración
-[Click aquí para ver prototipo de alta]
 (https://marvelapp.com/7bh25i1)
