@@ -89,5 +89,5 @@ Con la activación de una pasarela de pago, se le permite al usuario realizar su
 [Click aquí para ver carpeta de  Google Drive con archivos del proyecto](https://drive.google.com/drive/folders/1mDnO5rtOfDwUoEujf4WH-Ofk4yvj0w-I?usp=sharing)
 
 ## Iteración
-Enlace de prototipo de alta fidelidad con iteración
-(https://marvelapp.com/7bh25i1)
+Prototipo de alta fidelidad con iteración 
+[Click aquí para ver prototipo de alta fidelidad ](https://marvelapp.com/7bh25i1)
